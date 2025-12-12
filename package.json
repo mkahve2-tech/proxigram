@@ -1,9 +1,6 @@
 {
     "name": "chromaticlove"
   , "version": "0.1.0"
-  , "engines": {
-      "node": "24.x"
-    },
   , "private": true
   , "dependencies": {
       "express": "2.5.8"
@@ -30,7 +27,7 @@
     , "node-push-helper": "git://github.com/sujal/node-push-helper.git"
   }
   , "engines": {
-      "node": "0.10.x"
+      "node": "24.x"
     , "npm":  "1.2.x"
   }
 }
